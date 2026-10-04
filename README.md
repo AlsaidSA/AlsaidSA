@@ -65,10 +65,10 @@ To see all the other badges and certificates are [here](https://alsaid.me/)
   <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40">
 </h2>
 
-<p align="center">
+<p align="left">
   <img
     src="https://alsaid.me/mystat.svg"
-    width="495"
+    width="90%"
     alt="Developer Stats"
   />
 </p>
