@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Abdullah Alsaid</h1>
 
-<p align="left">
+<p align="middle">
   <img
     src="https://alsaid.me/profilecounter.svg"
     alt="Profile Views"
