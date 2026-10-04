@@ -6,6 +6,7 @@
     alt="Profile Views"
   />
 </p>
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 <p align="center">
