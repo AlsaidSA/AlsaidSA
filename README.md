@@ -68,7 +68,7 @@ To see all the other badges and certificates are [here](https://alsaid.me/)
 <p align="left">
   <img
     src="https://alsaid.me/mystat.svg"
-    width="90%"
+    width="70%"
     alt="Developer Stats"
   />
 </p>
