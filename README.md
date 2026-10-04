@@ -3,7 +3,7 @@
 
 <p align="middle">
   <img
-    src="https://alsaid.me/profilecounter.svg"
+    src="https://alsaid.me/profilecounter .svg"
     alt="Profile Views"
   />
 </p>
