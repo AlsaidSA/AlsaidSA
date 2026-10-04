@@ -1,21 +1,19 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Pedro Matias</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Abdullah Alsaid</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="pemtajo" /> </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
 <p align="center">
-<a href="https://dev.to/pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/pedromaraujo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedromaraujo" height="30" width="30" /></a>
-<a href="https://medium.com/@pemtajo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pemtajo" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8581307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8581307" height="30" width="30" /></a>
+<a href="https://alsaid.me/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pemtajo" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/abdullahalsaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdullahalsaid" height="30" width="30" /></a>
 </p>
 
 <br />
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
-To see all the other badges are [here](https://www.credly.com/users/pemtajo/badges)
+To see all the other badges and certificates are [here](https://alsaid.me/)
 
 <!--START_SECTION:badges-->
 [![IBM Cybersecurity Analyst Professional Certificate](https://images.credly.com/size/80x80/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png)](https://www.credly.com/badges/08a67167-7176-48bf-b173-0d9164dd032c)
@@ -56,18 +54,9 @@ To see all the other badges are [here](https://www.credly.com/users/pemtajo/badg
 [![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/80x80/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob)](https://www.credly.com/badges/1ad7529a-c7cc-44ca-b9ff-5d5f5d067d45)
 <!--END_SECTION:badges-->
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
+<h2> What I’ve Been Working On Lately  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> </h2>
 
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 September 2026 - To: 03 October 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <br />
 
@@ -76,16 +65,6 @@ No activity tracked
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pemtajo&theme=dark" alt="pemtajo" /></p>
 
 <br />
-
-<h2> Latest Blog Posts <img src = "https://media.giphy.com/media/inlGp1wGqBog2cVw5y/giphy.gif" width="40"> </h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [AI Is Becoming a Factory. Programming Is Becoming a Craft.](https://medium.com/hackernoon/ai-is-becoming-a-factory-programming-is-becoming-a-craft-af5de992d302?source=rss-bb908bda42e------2)
-- [4 Tips to use Watson Discovery](https://pemtajo.medium.com/4-tips-to-use-watson-discovery-802f3c568315?source=rss-bb908bda42e------2)
-- [Adding badges to your Github profile](https://dev.to/pemtajo/how-to-improve-your-github-profile-by-adding-badges-gib)
-- [How to improve your Github profile by adding badges](https://pemtajo.medium.com/how-to-improve-your-github-profile-by-adding-badges-2c10363f4f9a?source=rss-bb908bda42e------2)
-- [Good test vs. bad test, como identificar?](https://medium.com/devorando/good-test-bad-test-como-identificar-ffd1d43ca034?source=rss-bb908bda42e------2)
-<!-- BLOG-POST-LIST:END -->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> </h2>
 
