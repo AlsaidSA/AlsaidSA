@@ -66,7 +66,11 @@ To see all the other badges and certificates are [here](https://alsaid.me/)
 </h2>
 
 <p align="center">
-  <img src="alsaid.me/mystat.svg" alt="GitHub Stats" />
+  <img
+    src="https://alsaid.me/assets/developer-stats.svg"
+    width="495"
+    alt="Developer Stats"
+  />
 </p>
 
 <br />
