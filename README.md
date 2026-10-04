@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Abdullah Alsaid</h1>
 
 <p align="middle">
@@ -51,6 +52,7 @@
 </div>
 
 <!--END_SECTION:badges-->
+
 
 To see all the other badges and certificates are [here](https://alsaid.me/)
 
