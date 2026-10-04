@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Abdullah Alsaid</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="pemtajo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pemtajo" alt="abdullahalsaid" /> </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2>
 
@@ -66,7 +66,7 @@ To see all the other badges and certificates are [here](https://alsaid.me/)
 </h2>
 
 <p align="center">
-  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <img src="alsaid.me/mystat.svg" alt="GitHub Stats" />
 </p>
 
 <br />
