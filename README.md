@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm Abdullah Alsaid</h1>
 
 <p align="middle">
@@ -19,7 +18,7 @@
     height="30"
     width="30"
   />
-</a><a href="https://linkedin.com/in/abdullahalsaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdullahalsaid" height="30" width="30" /></a>
+</a><a href="https://linkedin.com/in/abdullahalsaid" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="abdullahalsaid" height="30" width="30" /></a>
 </p>
 
 <br />
